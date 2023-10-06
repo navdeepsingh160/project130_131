@@ -1,0 +1,74 @@
+  ol h5
+  {
+    background-color: white;
+    padding: 13px;
+    border-radius: 20px;
+  }
+
+
+
+  span
+  {
+    color: red;
+    font-size: 16px;
+  }
+
+  li img{
+    border-radius: 20px;
+
+  }
+
+  .bob 
+  {
+    background-color: rgb(224, 110, 110);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 60px;
+
+  }
+
+
+
+  b{
+    color: purple;
+  }
+
+  .bob3
+  {
+    text-align: center;
+    color: white;
+
+
+  }
+
+
+  .copy_right_footer
+  {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+  }
+
+  canvas
+  {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 160px;
+  }
+ 
+
+  .result{
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px gray;
+    margin-top: 30px;
+    letter-spacing: 2px;
+    background: #F2BAC9;
+    padding:20px ;
+  }
